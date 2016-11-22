@@ -4,15 +4,14 @@
 }
 
 @font-face {
-	font-family: 'Debby';
-	src: url('Debby.eot');
-	src: url('Debby.eot?#iefix') format('embedded-opentype'),
-		url('Debby.woff2') format('woff2'),
-		url('Debby.woff') format('woff'),
-		url('Debby.ttf') format('truetype'),
-		url('Debby.svg#Debby') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'Debby';
+    src: url('/fonts/Fonts/Debby.otf');
+    src: url('/fonts/Fonts/Debby.ttf');
+    src: url('/fonts/Fonts/Debby.eot');
+    src: url('/fonts/Fonts/Debby.svg');
+    src: url('/fonts/Fonts/Debby.woff');
+    src: url('/fonts/Fonts/Debby.woff2');
+    
 }
 
 
