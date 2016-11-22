@@ -49,12 +49,12 @@
 .css-beauty-title {
     
     position: absolute; 
-    top: 20%;
+    top: 30%;
     text-align: center; 
     width: 100%; 
     color: white; 
-    font-size: 9vw; 
-    font-family: 'Debby';
+    font-size: 6vw; 
+    font-family: 'Permanent Marker', cursive;
     letter-spacing: 0.75px; 
     
 }
@@ -207,12 +207,12 @@ a.css-link {
 
 .participation-headline {
     position: absolute; 
-    top: 60%;
+    top: 65%;
     text-align: center; 
     width: 100%; 
     color: white; 
-    font-size: 15vw; 
-    font-family: 'Debby';
+    font-size: 9vw; 
+    font-family: 'Permanent Marker', cursive;
     letter-spacing: 0.75vw; 
     
 }
@@ -293,13 +293,13 @@ a.link6 {
 
 .requirements-headline {
     position: absolute; 
-    top: 60%;
+    top: 65%;
     vertical-align: middle; 
     text-align: center; 
     width: 100%; 
     color: white; 
-    font-size: 15vw; 
-    font-family: 'Debby';
+    font-size: 9vw; 
+    font-family: 'Permanent Marker', cursive;
     letter-spacing: 0.75vw;
     
 }
