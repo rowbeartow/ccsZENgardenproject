@@ -18,10 +18,9 @@
 	font-family: 'Debby';
 	src: url('/Fonts/Debby.eot');
 	src: url('/Fonts/Debby.eot?#iefix') format('embedded-opentype'),
-		url('/Fonts/Debby.woff2') format('woff2'),
 		url('/Fonts/Debby.woff') format('woff'),
 		url('/Fonts/Debby.ttf') format('truetype'),
-		url('/Fonts/Debby.svg#Debby') format('svg');
+		url('/Fonts/Debby.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
