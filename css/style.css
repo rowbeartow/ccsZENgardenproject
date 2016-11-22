@@ -5,12 +5,12 @@
 
 @font-face {
     font-family: 'Debby';
-    src: url('/img/Fonts/Debby.otf');
+    src: url('/fonts/Fonts/Debby.otf');
 }
 
 @font-face {
     font-family: 'Castiron-Condensed';
-    src: url('/img/CastIron-Condensed.otf');
+    src: url('/fonts/CastIron-Condensed.otf');
 }
 
 
@@ -32,7 +32,7 @@
 .css-beauty-title {
     
     position: absolute; 
-    top: 30%;
+    top: 20%;
     text-align: center; 
     width: 100%; 
     color: white; 
