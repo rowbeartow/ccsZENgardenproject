@@ -16,12 +16,12 @@
 
 @font-face {
 	font-family: 'Debby';
-	src: url('../fonts/Debby.eot');
-	src: url('../fonts/Debby.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/Debby.woff2') format('woff2'),
-		url('../fonts/Debby.woff') format('woff'),
-		url('../fonts/Debby.ttf') format('truetype'),
-		url('../fonts/Debby.svg#Debby') format('svg');
+	src: url('/fonts/Debby.eot');
+	src: url('/fonts/Debby.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/Debby.woff2') format('woff2'),
+		url('/fonts/Debby.woff') format('woff'),
+		url('/fonts/Debby.ttf') format('truetype'),
+		url('/fonts/Debby.svg#Debby') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
