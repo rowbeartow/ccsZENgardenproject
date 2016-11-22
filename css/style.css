@@ -1,0 +1,336 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Debby';
+    src: url('/Content/Fonts/Debby.otf');
+}
+
+@font-face {
+    font-family: 'Castiron-Condensed';
+    src: url('/Content/CastIron-Condensed.otf');
+}
+
+
+.hero-image {
+    position: relative; 
+  
+    
+}
+
+.hero-beekeeping {
+    
+    position: relative; 
+    max-width: 100%;
+    
+    
+
+}
+
+.css-beauty-title {
+    
+    position: absolute; 
+    top: 30%;
+    text-align: center; 
+    width: 100%; 
+    color: white; 
+    font-size: 9vw; 
+    font-family: 'Debby';
+    letter-spacing: 0.75px; 
+    
+}
+
+p.demo-text {
+    
+    position: absolute;
+    top: 53%;
+    text-align: center; 
+    width: 100%; 
+    color: white; 
+    font-size: 2vw; 
+    font-family: 'Roboto', sans-serif;;
+    text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+    
+}
+
+a.html-link, 
+a.css-link {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
+
+
+.html-button {
+    
+    position: absolute; 
+    left: 41%;
+    top: 67%;
+    background-color: transparent;
+    border: solid 1px;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.css-button {
+    
+    position: absolute; 
+    right: 41%;
+    top: 67%;
+    background-color: transparent;
+    border: solid 1px;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.enlightenment {
+    position: relative;
+    display: block; 
+    background-color: black; 
+    max-width: 100%; 
+    margin: 0 auto;
+    padding-bottom: 5%; 
+    
+}
+
+.road-to-enlightenment {
+    margin-top: -5%;
+    padding-top: 5%; 
+    text-align: center; 
+    color: white;
+    font-size: 4vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    
+    
+}
+
+.enlightenment p {
+    margin: 0 15% 0 15%;
+    padding-top: 2%;
+    color: white;
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    
+}
+
+
+.so-what {
+    position: relative; 
+    display: block; 
+    background-color: white; 
+    max-width: 100%; 
+    margin: 0 auto; 
+    padding-bottom: 5%; 
+       
+    
+}
+
+.bee-hex {
+    display: block; 
+    margin: auto; 
+    max-width: 50%; 
+    padding-bottom: 3%;
+    
+}
+
+.what-is-this {
+    margin-top: auto;
+    padding-top: 5%;
+    padding-bottom: 3%; 
+    text-align: center; 
+    color: black;
+    font-size: 4vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;  
+    
+    
+}
+
+.so-what p {
+    margin: 0 15% 0 15%;
+    color: black;
+    padding-top: 2%; 
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    
+}
+
+
+.participation {
+    position: relative;
+  
+    
+}
+.hive-participation {
+    display: block;  
+    max-width: 100%; 
+    
+}
+
+.participation-headline {
+    position: absolute; 
+    top: 60%;
+    text-align: center; 
+    width: 100%; 
+    color: white; 
+    font-size: 15vw; 
+    font-family: 'Debby';
+    letter-spacing: 0.75vw; 
+    
+}
+
+.participation-body-text {
+    position: relative; 
+    background-color: black; 
+    max-width: 100%;  
+    margin: 0 auto;
+    padding-top: 5%; 
+    padding-bottom: 5%; 
+    
+}
+
+p.strong-visual {
+    margin: 0 15% 0 15%;
+    padding-bottom: 3%;
+    color: white;
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    
+}
+
+
+a.link1, 
+a.link2, 
+a.link3, 
+a.link4, 
+a.link5, 
+a.link6 {
+    color: white;
+    
+    
+}
+
+.benefits {
+    position: relative; 
+    background-color: white; 
+    max-width: 100%; 
+    padding-bottom: 5%; 
+    
+}
+
+.benefits-headline {
+    
+    margin-top: auto;
+    padding-top: 5%;
+    padding-bottom: 2%; 
+    text-align: center; 
+    color: black;
+    font-size: 4vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    
+}
+
+.benefits p {
+    margin: 0 15% 0 15%;
+    color: black;
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+    text-align: center; 
+    
+}
+
+.requirements {
+    position: relative;
+    
+}
+.queen-black {
+    position: relative;   
+    max-width: 100%;
+    
+}
+
+.requirements-headline {
+    position: absolute; 
+    top: 60%;
+    vertical-align: middle; 
+    text-align: center; 
+    width: 100%; 
+    color: white; 
+    font-size: 15vw; 
+    font-family: 'Debby';
+    letter-spacing: 0.75vw;
+    
+}
+
+.requirements-body-text {
+    background-color: black; 
+    max-width: 100%; 
+    margin: 0 auto; 
+    padding-bottom: 5%; 
+    
+
+}
+
+.requirements-body-text p {
+    margin: -2% 15% 0 15%;
+    padding-top: 5%;
+    text-align: center; 
+    color: white;
+    font-size: 1.8vw;  
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+} 
+    
+}
+
+.footer-text {
+    position: relative; 
+    background-color: white; 
+    max-width: 100%;  
+    margin: 0 auto;  
+    
+    
+}
+
+.content-info {
+    position: absolute; 
+    padding-top: 5%;
+    padding-bottom: 5%; 
+    margin: 0 15% 0 15%;
+    text-align: center; 
+    color: black; 
+    font-size: 1.8vw; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+    
+}
+
+a.link7, 
+a.link8, 
+a.link9 {
+    color: black;
