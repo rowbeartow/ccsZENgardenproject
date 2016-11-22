@@ -5,12 +5,11 @@
 
 @font-face {
     font-family: 'Debby';
-    src: url('/fonts/Debby.otf');
-    src: url('/fonts/Debby.ttf');
     src: url('/fonts/Debby.eot');
-    src: url('/fonts/Debby.svg');
-    src: url('/fonts/Debby.woff');
-    src: url('/fonts/Debby.woff2');
+    src: url('/fonts/Debby.eot?$iefix') format('embedded-opentype'),
+    src: url('/fonts/Debby.woff') format('woff'),
+    src: url('/fonts/Debby.otf') format ("opentype");
+   
     
 }
 
