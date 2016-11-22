@@ -4,9 +4,17 @@
 }
 
 @font-face {
-    font-family: 'Debby';
-    src: url('/fonts/Fonts/Debby.otf');
+	font-family: 'Debby';
+	src: url('Debby.eot');
+	src: url('Debby.eot?#iefix') format('embedded-opentype'),
+		url('Debby.woff2') format('woff2'),
+		url('Debby.woff') format('woff'),
+		url('Debby.ttf') format('truetype'),
+		url('Debby.svg#Debby') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
+
 
 @font-face {
     font-family: 'Castiron-Condensed';
