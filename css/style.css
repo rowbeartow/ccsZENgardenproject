@@ -90,7 +90,10 @@ a.css-link {
     background-color: transparent;
     border: solid 1px;
     color: white;
-    padding: 3px 5px;
+    padding-top: 0.1em; 
+    padding-bottom: 0.1em; 
+    padding-left: 0.7em; 
+    padding-right: 0.7em; 
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -107,7 +110,10 @@ a.css-link {
     background-color: transparent;
     border: solid 1px;
     color: white;
-    padding: 3px 5px;
+    padding-top: 0.1em; 
+    padding-bottom: 0.1em; 
+    padding-left: 0.7em; 
+    padding-right: 0.7em; 
     text-align: center;
     text-decoration: none;
     display: inline-block;
